@@ -1,0 +1,16 @@
+enable: true
+heading: About
+headingSpan: Us
+
+aboutItem:
+  - icon: tf-tools
+    title: We’re creative
+    content: Being established is one thing, and being known is just a whole different thing all together. It’s not enough to have a good service for the society. The way your organization appears also matters to your client unconsciously.
+
+  - icon: tf-strategy
+    title: We're Professional
+    content: Corporate face is proud to boost of professional NIIT certified scholars. Creative and reliable artists and dozen of other professionals in other high esteemed institutions of creative learning. We are creative and reliab.
+
+  - icon: tf-anchor2
+    title: We're Genius
+    content: We have shown exceptional skills in idea conceptualization and implementation. We have been very innovative and have created corporate brands, looks and identities that have truly represented our clients objectives..
