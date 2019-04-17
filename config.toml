@@ -17,7 +17,7 @@ summaryLength = 10
 # Menu
 [menu]
     [[menu.nav]]
-    name = "About Us"
+    name = "About us"
     URL = "about"
     weight = 2
 
@@ -37,8 +37,8 @@ summaryLength = 10
     weight = 5
 
     [[menu.nav]]
-    name = "Pricing"
-    URL = "pricing"
+    name = "Plan"
+    URL = "package"
     weight = 6
 
     [[menu.nav]]
@@ -52,11 +52,11 @@ home= "Home"
 logo = ""
 gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
 # Meta data
-description = "In Corporate Face, we represent even the least sort-after products/services in the most engaging ways. You can sell anything we represent for you..!"
+description = "In Corporate Face, we represent even the least sort-after products/services in the most engaging ways."
 author = "Otis Chiemezie"
 # Google Analitycs
 googleAnalitycsID = "UA-138520729-1"
-#custom_css = ["css/custom.css"]
+custom_css = ["css/custom.css"]
 
     # Banner Section
     [params.banner]

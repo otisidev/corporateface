@@ -1,6 +1,6 @@
 enable: true
 heading: Corporate
-headingSpan: Plan
+headingSpan: Plans
 pricingTable:
   - title: Basic
     price: N55,000
@@ -10,42 +10,24 @@ pricingTable:
       - planDetails: 2 Logo options
       - planDetails: Static Single Page Business site
       - planDetails: Business Card Design
+      - planDetails: ".."
 
   - title: Professional
-    price: $149
-    time:
+    price: N100,000
     btnURL: #
     btnText: Purchase
     plan:
-      - planDetails: 2 Logo options
+      - planDetails: 4 Logo options
       - planDetails: Business site using Hugo
       - planDetails: Business Card Design
-      - planDetails: 1 GB Storage
-      - planDetails: 10 GB Bandwidth
-      - planDetails: 24/7 Tech Support
+      - planDetails: ".."
 
-  - title: Gold
-    price: $199
-    time: month
+  - title: Elite
+    price: N250,000
     btnURL: #
-    btnText: Signup
+    btnText: Purchase
     plan:
-      - planDetails: 1GB Disk Space
-      - planDetails: 10 Email Account
-      - planDetails: Script Installer
-      - planDetails: 1 GB Storage
-      - planDetails: 10 GB Bandwidth
-      - planDetails: 24/7 Tech Support
-
-  - title: Platinum
-    price: $299
-    time: month
-    btnURL: #
-    btnText: Signup
-    plan:
-      - planDetails: 1GB Disk Space
-      - planDetails: 10 Email Account
-      - planDetails: Script Installer
-      - planDetails: 1 GB Storage
-      - planDetails: 10 GB Bandwidth
-      - planDetails: 24/7 Tech Support
+      - planDetails: 5 Logo options
+      - planDetails: Business Card Design
+      - planDetails: Business site using Hugo
+      - planDetails: Product and Services explainer video

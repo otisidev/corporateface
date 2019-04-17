@@ -1,0 +1,39 @@
+enable: true
+heading: Our
+headingSpan: Services
+serviceItem:
+  - icon: tf-globe
+    title: WordPress Site
+    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+
+  - icon: tf-genius
+    title: Products 3D renders/shots.
+    content: I can make your product stand out with product staging. With this extra service, I put your product into a cool surrounding what helps to understand it better and highlights its features. An advert with product staging will not only show your product but also will represent the lifestyle and the image which you product maintain.
+
+  - icon: tf-ion-laptop
+    title: Products and services digital Advertisement
+    content: Digital marketing is the marketing of products or services using digital technologies, mainly on the Internet, but also including mobile phones, display advertising, and any other digital medium.
+
+  - icon: tf-dial
+    title: Graphic Design
+    content: To deal with the competition, graphic designs have become essential to draw the attention of potential customers towards businesses. There is an increasing need felt by entrepreneurs to communicate a message to the target audience effectively.
+
+  - icon: tf-target3
+    title: Motion Design.
+    content: Motion Graphics is animation that uses shapes and text in dynamic ways to help bring stories and concepts to life. While it is ideal for showcasing stats and information, motion graphics is also useful for companies looking to avoid character-led messaging that might not be right for their brand.
+
+  - icon: tf-ion-ios-videocam-outline
+    title: Explainer Videos.
+    content: animated explainer video needs to elevate your brand, separate you from the competition,and inspire your best prospects to think, feel, and then do something.
+
+  - icon: tf-ion-load-a
+    title: Infographics.
+    content: Infographics are some of the best tools that a business can use to start a viral marketing campaign. ... While a whitepaper creates authority for a brand and blogs boost search engine optimization value, infographics attract attention from a wide audience because they're easy to read and usually fun.
+
+  - icon: tf-ion-android-cloud-circle
+    title: 3D animation.
+    content: One of the most longed marketing objectives is to capture the attention of the right target audience. Animations are a great asset for this since they can be completely customized! With a custom animated marketing video, you can make the characters in your video look, talk and dress like your target audience, making them feel that they’re the real main characters of the video; that way, they can identify with your brand immediately.
+
+  - icon: tf-ion-load-a
+    title: Branding.
+    content: Branding is a way of identifying your business. It is how your customers recognise and experience your business. A strong brand is more than just a logo; it's reflected in everything from your customer service style, staff uniforms, business cards and premises to your marketing materials and advertising.
