@@ -4,40 +4,7 @@ headingSpan: Team
 teamMember:
   - image: images/team/team-1.jpg
     name: Uzongwa Kenechukwu
-    designation: CEO/Founder
-    socialIcon:
-      - icon: tf-ion-social-facebook
-        url: "#"
-      - icon: tf-ion-social-twitter
-        url: "#"
-      - icon: tf-ion-social-linkedin
-        url: "#"
-
-  - image: images/team/team-2.jpg
-    name: Eze Ejike
-    designation: Software Engineer
-    socialIcon:
-      - icon: tf-ion-social-facebook
-        url: "#"
-      - icon: tf-ion-social-twitter
-        url: "#"
-      - icon: tf-ion-social-linkedin
-        url: "#"
-
-  - image: https://pbs.twimg.com/media/DknOE5DXgAATdoE.jpg
-    name: Otis Chiemezie
-    designation: Software Engineer
-    socialIcon:
-      - icon: tf-ion-social-github
-        url: "https://www.gitbuh.com/otisidev"
-      - icon: tf-ion-social-twitter
-        url: "https://www.twitter.com/otisidev"
-      - icon: tf-ion-social-linkedin
-        url: "https://ng.linkedin.com/in/otisidev"
-
-  - image: images/team/team-4.jpg
-    name: Onwe Sunday
-    designation: Software Engineer
+    designation: CEO | Founder | 3D Animation | Graphic Designer 
     socialIcon:
       - icon: tf-ion-social-facebook
         url: "#"

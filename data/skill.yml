@@ -1,0 +1,26 @@
+enable : true
+heading : Our
+headingSpan : Skills
+title : We’ve skilled in wide range of web and Other digital market tools.
+content :
+image : images/about/company-growth.png
+skillItem :
+  - itemNumber : 01-
+    itemName :  Professional Logo Design
+    itemPercent : 98%
+
+  - itemNumber : 02-
+    itemName :  Web Development
+    itemPercent : 96%
+
+  - itemNumber : 03-
+    itemName :  Branding
+    itemPercent : 98%
+
+  - itemNumber : 04-
+    itemName :  Explainer Videos
+    itemPercent : 95%
+
+  - itemNumber : 05-
+    itemName :  Digital Advertisement
+    itemPercent : 90%

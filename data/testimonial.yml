@@ -1,0 +1,17 @@
+enable: true
+bgImage: images/backgrounds/bg-2.jpg
+testimonialItem:
+  - name: Jonathon Andrew
+    image: images/team/client-1.jpg
+    date: Dec 26, 2018
+    content: I couldn't be happier with choosing corporateface as my branding agency. From my first meeting with Mari to the final step of web design, the corporateface team was truly amazing! They showed such care, professionalism, honesty and creativity for everything related to my brand. I still love my logo today, as much as the first day I saw it. YOU GUYS ARE THE BEST! Thank you!!"Gold Fish, President
+
+  - name: Ryan Dovner
+    image: images/team/client-2.jpg
+    date: Dec 26, 2018
+    content: I would personally like to thank you and everyone at corporateface for such an amazing job you guys did on our project. It was a pleasure working with you and your team as you were all extremely professional to work with. We also appreciate how quickly you were able to complete this project & meet our deadlines. You exceeded our expectations at oak and I look forward to working with you again in the near future."Ryan Dovner, Partner
+
+  - name: Juan Villegas
+    image: images/team/client-1.jpg
+    date: Dec 26, 2018
+    content: corporateface joined our proposal team and was on-board from start to finish. They were a fundamental part of the team and handled our every request with ease - nothing was too big or too small. The final product turned out great! corporateface helped us put our best foot forward for the win!" Juan Villegas PE, Senior Vice-President

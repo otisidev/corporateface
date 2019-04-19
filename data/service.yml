@@ -2,13 +2,9 @@ enable: true
 heading: Our
 headingSpan: Services
 serviceItem:
-  - icon: tf-globe
-    title: WordPress Site
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-
   - icon: tf-genius
     title: Products 3D renders/shots.
-    content: I can make your product stand out with product staging. With this extra service, I put your product into a cool surrounding what helps to understand it better and highlights its features. An advert with product staging will not only show your product but also will represent the lifestyle and the image which you product maintain.
+    content: I can make your product stand out with product staging. With this extra service, I put your product into a cool surrounding which helps to understand it better and highlights its features.
 
   - icon: tf-ion-laptop
     title: Products and services digital Advertisement
@@ -24,7 +20,7 @@ serviceItem:
 
   - icon: tf-ion-ios-videocam-outline
     title: Explainer Videos.
-    content: animated explainer video needs to elevate your brand, separate you from the competition,and inspire your best prospects to think, feel, and then do something.
+    content: Animated explainer video needs to elevate your brand, separate you from the competition,and inspire your best prospects to think, feel, and then do something. Expaliner Videos tells your Clients everything about your products and services in a visually engaging way.
 
   - icon: tf-ion-load-a
     title: Infographics.
@@ -32,7 +28,7 @@ serviceItem:
 
   - icon: tf-ion-android-cloud-circle
     title: 3D animation.
-    content: One of the most longed marketing objectives is to capture the attention of the right target audience. Animations are a great asset for this since they can be completely customized! With a custom animated marketing video, you can make the characters in your video look, talk and dress like your target audience, making them feel that they’re the real main characters of the video; that way, they can identify with your brand immediately.
+    content: One of the most longed marketing objectives is to capture the attention of the right target audience. Animations are a great asset for this since they can be completely customized! With a custom animated marketing video, you can make the characters in your video look, talk and dress like your target audience.
 
   - icon: tf-ion-load-a
     title: Branding.

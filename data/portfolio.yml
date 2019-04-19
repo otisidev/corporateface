@@ -1,0 +1,104 @@
+enable: true
+heading: Our
+headingSpan: Works
+filterList:
+  - filterType: logo
+    filterTitle: Logo
+
+  - filterType: branding
+    filterTitle: Branding
+
+  - filterType: development
+    filterTitle: Illustration
+
+portfolioItem:
+  - types: branding
+    image: images/portfolio/portfolio-2.png
+    icon: tf-ion-android-search
+    URL: #
+    title: Gold Fish
+    description: Gold fish logo!
+
+  - types: logo
+    image: images/portfolio/portfolio-3.jpg
+    icon: tf-ion-android-search
+    URL: #
+    title: Hormony Circle
+    description: Hormony Circle logo!
+
+  - types: logo
+    image: images/portfolio/portfolio-4.jpg
+    icon: tf-ion-android-search
+    URL: #
+    title: Mommy smart
+    description: Mommy smart logo!
+
+  - types: logo
+    image: images/portfolio/portfolio-5.jpg
+    icon: tf-ion-android-search
+    URL: #
+    title: Cherry & Irwin
+    description: Cherry & Irwin logo!
+
+  - types: logo
+    image: images/portfolio/portfolio-6.jpg
+    icon: tf-ion-android-search
+    URL: #
+    title: Cooper
+    description: cooper logo law firm!
+
+  - types: logo
+    image: images/portfolio/portfolio-7.jpg
+    icon: tf-ion-android-search
+    URL: #
+    title: Cooper
+    description: cooper logo law firm!
+
+  - types: logo
+    image: images/portfolio/portfolio-8.jpg
+    icon: tf-ion-android-search
+    URL: #
+    title:  DSA
+    description: DSA Logo!
+
+  - types: logo
+    image: images/portfolio/portfolio-9.jpg
+    icon: tf-ion-android-search
+    URL: #
+    title: oak
+    description: Oak logo!
+
+  - types: logo
+    image: images/portfolio/portfolio-10.png
+    icon: tf-ion-android-search
+    URL: #
+    title: Street  Smart
+    description: Street Smart logo!
+
+  - types: logo
+    image: images/portfolio/portfolio-11.jpg
+    icon: tf-ion-android-search
+    URL: #
+    title: Logo
+    description: Logo Design!
+
+  - types: logo
+    image: images/portfolio/portfolio-12.jpg
+    icon: tf-ion-android-search
+    URL: #
+    title: No deposit logo
+    description: no deposite Apartment logo!
+
+  - types: logo
+    image: images/portfolio/portfolio-13.jpg
+    icon: tf-ion-android-search
+    URL: #
+    title: Tabernacle
+    description: Tabernacle  captial logo!
+
+  - types: logo
+    image: images/portfolio/portfolio-14.png
+    icon: tf-ion-android-search
+    URL: #
+    title: e corperative
+    description: e corperative logo!
