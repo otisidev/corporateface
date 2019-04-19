@@ -49,7 +49,7 @@ summaryLength = 10
 # Site params
 [params]
 home= "Home"
-logo = ""
+logo = "images/logo1.png"
 gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
 # Meta data
 description = "In Corporate Face, we represent even the least sort-after products/services in the most engaging ways."
@@ -103,8 +103,8 @@ custom_css = ["css/custom.css"]
 
     # footer
     [params.footer]
-        copyright = "Xandrux Technosystems Team"
-        copyrightURL = "http://www.github.com/otisidev"
+        copyright = "Looptrace Team"
+        copyrightURL = "https://www.Looptrace.com/"
 
         # social Icons
         [[params.footer.socialIcon]]
@@ -122,4 +122,3 @@ custom_css = ["css/custom.css"]
         [[params.footer.socialIcon]]
         icon = "tf-ion-social-linkedin"
         url = "#"
-
