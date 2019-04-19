@@ -1,0 +1,13 @@
+enable : true
+image : images/about/about-business-man.jpg
+title : We’re A Digital Design Agency.
+description : Corporate face is a digital creative agency on a mission to help businesses succeed through exceptional digital services, focused on clients’ satisfaction.
+description2 : Corporate face is made up of a team of professionals passionate about what they do with a culture of excellence. Corporate face works with brands of different sizes – multinationals, SMEs, and start-ups. Our goal is to give your organization the new face it needs to attract her prospective clients. We believe your business deserves a better face and we are your best candidate for the job.
+aboutItem :
+  - icon : tf-circle-compass
+    title : SEO Optimized
+    content : Getting your site optimized is one thing. Once they’ve found you, how do you retain their interest? A well thought out and designed site is key to retaining your visitors. Give them what they’re looking for, and do it in a clean professional manner.
+
+  - icon : tf-hotairballoon
+    title : Easy Customization
+    content : Flexibility and satisfaction is our watch word, full control and flexibility is the foundation of our creativity. We are always cutout for new ideas and implementation.
