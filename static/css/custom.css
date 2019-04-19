@@ -13,3 +13,22 @@ h1, h2, h3, h4, h5, h6 {
 .hero-area > .block > h1 {
   font-size: 2.5em !important
 }
+.call-to-action h2 {
+  color: #222 !important
+}
+.overly:before {
+  background: rgba(53, 59, 67, 0.31) !important;
+}
+
+.text-primary {
+  color: #000 !important;
+  font-size: 1.3em !important;
+  font-weight: 500 !important
+}
+
+.btn-main {
+  background-color: #2c9091 !important
+}
+.btn-main:hover {
+  background-color: #57cbcc !important
+}
