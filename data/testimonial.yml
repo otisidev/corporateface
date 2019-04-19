@@ -1,17 +1,27 @@
 enable: true
 bgImage: images/backgrounds/bg-2.jpg
 testimonialItem:
-  - name: Jonathon Andrew
-    image: images/team/client-1.jpg
+  - name: Arfina tari
+    image: images/team/client-5.jpg
     date: Dec 26, 2018
-    content: I couldn't be happier with choosing corporateface as my branding agency. From my first meeting with Mari to the final step of web design, the corporateface team was truly amazing! They showed such care, professionalism, honesty and creativity for everything related to my brand. I still love my logo today, as much as the first day I saw it. YOU GUYS ARE THE BEST! Thank you!!"Gold Fish, President
+    content: I couldn't be happier with choosing corporateface as my branding agency. From my first meeting with Mari to the final step of web design, the corporateface team was truly amazing! They showed such care, professionalism, honesty and creativity for everything related to my brand. I still love my logo today, as much as the first day I saw it. YOU GUYS ARE THE BEST! Thank you!!
 
   - name: Ryan Dovner
     image: images/team/client-2.jpg
     date: Dec 26, 2018
     content: I would personally like to thank you and everyone at corporateface for such an amazing job you guys did on our project. It was a pleasure working with you and your team as you were all extremely professional to work with. We also appreciate how quickly you were able to complete this project & meet our deadlines. You exceeded our expectations at oak and I look forward to working with you again in the near future."Ryan Dovner, Partner
 
-  - name: Juan Villegas
+  - name: Madubuko Okey
+    image: images/team/client-3.jpg
+    date: Dec 26, 2018
+    content: The feedback from the website has been fantastic and everyone has commented on how professional, easy to read and simple it is, so I would like to say a massive thank you to yourself, Alison and the rest of your team.
+
+  - name: Charlene Torrel
+    image: images/team/client-4.jpg
+    date: Dec 26, 2018
+    content: Corporateface joined our proposal team and was on-board from start to finish. They were a fundamental part of the team and handled our every request with ease - nothing was too big or too small. The final product turned out great! corporateface helped us put our best foot forward for the win!" Juan Villegas PE, Senior Vice-President
+
+  - name: Franklin Adeboye
     image: images/team/client-1.jpg
     date: Dec 26, 2018
-    content: corporateface joined our proposal team and was on-board from start to finish. They were a fundamental part of the team and handled our every request with ease - nothing was too big or too small. The final product turned out great! corporateface helped us put our best foot forward for the win!" Juan Villegas PE, Senior Vice-President
+    content: I think the brochure looks amazing. We are all really happy with the work you have done!
