@@ -28,13 +28,14 @@
 
             {{"<!-- Contact Form -->" | safeHTML}}
             <div class="col-lg-6 wow fadeInUp" data-wow-duration="500ms" data-wow-delay="300ms">
-                <form id="contact-form" class="form-meghna" name="contact" method="POST" netlify-honeypot="bot-field" data-netlify="true">
-                  <p class="hidden">
-                     <label>Don’t fill this out if you're human: <input name="bot-field" /></label>
-                   </p>
+                <form  class="form-meghna" name="contact" method="POST" netlify-honeypot="bot-field" data-netlify="true">
+
                     <input name="e-mail" type="text" id="e-mail" autocomplete="off">
 
                     <div class="form-group">
+                      <p style="display:none" class="hidden">
+                         <label>Don’t fill this out if you're human: <input name="bot-field" /></label>
+                       </p>
                         <input type="text" placeholder="Your Name" class="form-control" name="name" id="name">
                     </div>
 
