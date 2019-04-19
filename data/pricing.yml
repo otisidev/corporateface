@@ -1,6 +1,6 @@
 enable: true
 heading: Corporate
-headingSpan: Plans
+headingSpan: Packages
 pricingTable:
   - title: Basic
     price: N55,000

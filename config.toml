@@ -37,7 +37,7 @@ summaryLength = 10
     weight = 5
 
     [[menu.nav]]
-    name = "Plan"
+    name = "Package"
     URL = "package"
     weight = 6
 
