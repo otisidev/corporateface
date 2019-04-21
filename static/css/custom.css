@@ -13,7 +13,7 @@ h1, h2, h3, h4, h5, h6 {
 .hero-area > .block > h1 {
   font-size: 2.5em !important
 }
-.call-to-action h2 {
+.call-to-action h2  {
   color: #222 !important
 }
 .overly:before {
@@ -67,7 +67,7 @@ element.style {
     background-color: #46cd69;
 }
 
-.about .block .icon-box {
+.about .block .icon-box,.price-title .value {
   color: #46cd69 !important;
 }
 .about .block:hover {
