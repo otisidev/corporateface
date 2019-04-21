@@ -4,8 +4,10 @@
 
                 {{"<!-- logo -->" | safeHTML}}
                 <a class="navbar-brand logo" href="{{ .Site.BaseURL | absURL }}">
-                        <img style="max-width: 60px" src="{{ .Site.Params.logo | absURL }}" alt="Logo" />
+                        <img src="{{ .Site.Params.logo | absURL }}" alt="Logo" />
+                        {{if not .Site.BaseURL}}
                         <span class="pl-2 font-weight-bold">{{ .Site.Title }}</span>
+                        {{end}}
                 </a>
                 {{"<!-- /logo -->" | safeHTML}}
 
