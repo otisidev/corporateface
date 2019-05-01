@@ -10,6 +10,7 @@ pricingTable:
       - planDetails: 2 Logo options
       - planDetails: Static Single Page Business site
       - planDetails: Business Card Design
+      - planDetails: Money back
       - planDetails: ".."
 
   - title: Professional
@@ -20,6 +21,7 @@ pricingTable:
       - planDetails: 4 Logo options
       - planDetails: Business site using Hugo
       - planDetails: Business Card Design
+      - planDetails: Money back
       - planDetails: ".."
 
   - title: Elite
@@ -31,3 +33,4 @@ pricingTable:
       - planDetails: Business Card Design
       - planDetails: Business site using Hugo
       - planDetails: Product and Services explainer video
+      - planDetails: Money back
