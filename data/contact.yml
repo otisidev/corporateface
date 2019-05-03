@@ -13,8 +13,8 @@ contactDetails:
   - icon: tf-ion-ios-telephone-outline
     info: "Phone: +234 703 843 3862"
 
-  # - icon: tf-ion-iphone
-  #   info: "Fax: +880-31-000-000"
+  - icon: tf-ion-iphone
+    info: "Mobile: +234 901 526 0960"
 
   - icon: tf-ion-ios-email-outline
-    info: "Email: kayuzongwa@gmail.com"
+    info: "Email: corporateface.design@gmail.com"
