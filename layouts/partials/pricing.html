@@ -39,7 +39,7 @@
 					</ul>
 
 					{{"<!-- signup button -->" | safeHTML}}
-					<a class="btn btn-transparent" href="{{ .btnURL | absURL}}">
+					<a onclick="logData({{.title}}, {{.plan}})" class="btn btn-transparent" href="#contact-us">
 						{{ .btnText }}
 					</a>
 				</div>
