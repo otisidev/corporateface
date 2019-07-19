@@ -123,3 +123,7 @@ custom_css = ["css/custom.css"]
         [[params.footer.socialIcon]]
         icon = "tf-ion-social-linkedin"
         url = "https://ng.linkedin.com/in/corporateface.design"
+
+        [[params.footer.socialIcon]]
+        icon = "tf-ion-social-instagram"
+        url = "https://www.instagram.com/corporateface.design"
