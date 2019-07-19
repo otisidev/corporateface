@@ -7,7 +7,7 @@ summaryLength = 10
 
 [author]
   name = "otisidev"
-  homepage = "https://github.com/otisidev"
+  homepage = "https://www.github.com/otisidev"
 
 [taxonomies]
   author = "author"
@@ -31,10 +31,10 @@ summaryLength = 10
     URL = "portfolio"
     weight = 4
 
-    [[menu.nav]]
-    name = "Team"
-    URL = "our-team"
-    weight = 5
+    # [[menu.nav]]
+    # name = "Team"
+    # URL = "our-team"
+    # weight = 5
 
     [[menu.nav]]
     name = "Package"
@@ -53,6 +53,7 @@ logo = "images/logo1.png"
 gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
 # Meta data
 description = "In Corporate Face, we represent even the least sort-after products/services in the most engaging ways."
+short_des = "Experience Corporate Face"
 author = "Otis Chiemezie"
 # Google Analitycs
 googleAnalitycsID = "UA-138520729-1"
@@ -62,7 +63,7 @@ custom_css = ["css/custom.css"]
     [params.banner]
     enable = true
     bgImage = "images/slider/hero-area.jpg"
-    icon = "tf-ion-play"
+    icon = "tf-ion-android-bulb"
     heading = "Experience Corporate Face"
     content= "Corporate Face is digital design agency developed to solve one single problem. Give your company or business its unique look and Identity!"
     btn = true
@@ -109,16 +110,16 @@ custom_css = ["css/custom.css"]
         # social Icons
         [[params.footer.socialIcon]]
         icon = "tf-ion-social-facebook"
-        url = "#"
+        url = "https//www.facebook.com/corporateface.design"
 
         [[params.footer.socialIcon]]
         icon = "tf-ion-social-twitter"
-        url = "#"
+        url = "https//www.twitter.com/@corporateface.design"
 
         [[params.footer.socialIcon]]
         icon = "tf-ion-social-youtube"
-        url = "#"
+        url = "https://www.youtube.com/user/corporateface.design"
 
         [[params.footer.socialIcon]]
         icon = "tf-ion-social-linkedin"
-        url = "#"
+        url = "https://ng.linkedin.com/in/corporateface.design"

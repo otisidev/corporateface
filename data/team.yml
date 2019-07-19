@@ -1,10 +1,10 @@
-enable: true
+enable: false
 heading: Our
 headingSpan: Team
 teamMember:
   - image: images/team/team-1.jpg
     name: Uzongwa Kenechukwu
-    designation: CEO | Founder | 3D Animation | Graphic Designer 
+    designation: CEO | Founder | 3D Animation | Graphic Designer
     socialIcon:
       - icon: tf-ion-social-facebook
         url: "#"

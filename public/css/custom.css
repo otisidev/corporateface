@@ -1,0 +1,134 @@
+h1, h2, h3, h4, h5, h6 {
+    font-weight: 400;
+    font-family: "Montserrat", sans-serif;
+}
+
+.nav-anchore, .navigation-menu li a, .btn,.portfolio-filter {
+  font-family: "Montserrat", sans-serif !important;
+}
+.client-comment p {
+  font-size: 14px !important;
+  font-weight: 600 !important;
+}
+.hero-area > .block > h1 {
+  font-size: 2.5em !important
+}
+.call-to-action h2  {
+  color: #222 !important
+}
+.overly:before {
+  background: rgba(53, 59, 67, 0.31) !important;
+}
+
+.text-primary {
+  color: #000 !important;
+  font-size: 1.3em !important;
+  font-weight: 500 !important
+}
+
+.btn-main {
+  background-color: #2c9091 !important
+}
+.btn-main:hover {
+  background-color: #57cbcc !important
+}
+
+.hidden {
+  display: none !important;
+  visibility: hidden;
+}
+
+.video-button > .tf-ion-play {
+  color: #46cd69 !important;
+}
+
+.btn-transparent:hover, .btn-transparent:focus, .btn-main {
+  background-color: #46cd69 !important;
+}
+.btn-main:hover {
+    background-color:  #36b156  !important;
+}
+
+.navigation .navigation-menu li a.active,
+element.style {
+}
+.navigation .navigation-menu li a:hover, .navigation .navigation-menu li a:focus, .navigation .navigation-menu li a.active{
+    color: #46cd69 !important;
+}
+
+.sk-cube-grid .sk-cube {
+    background-color: #46cd69;
+}
+
+.title h2 span {
+    color: #46cd69 !important;
+}
+.border-meghna:before {
+    background-color: #46cd69;
+}
+
+.about .block .icon-box,.price-title .value {
+  color: #46cd69 !important;
+}
+.about .block:hover {
+  border-color: #46cd69 !important;
+}
+
+.about-2 .content-block .media i {
+    color: #46cd69 !important;
+}
+
+.service-block .service-icon {
+    color: #46cd69 !important;
+}
+
+.skill-bar .progress .progress-bar {
+  background: #46cd69 !important;
+}
+
+.counters-item i {
+    color: #46cd69 !important;
+}
+
+.member-photo .mask {
+  background: #46cd6980 !important;
+}
+
+.member-photo .mask ul li a: hover {
+  color: #46cd69 !important;
+}
+
+.con-info i {
+  color: #46cd69 !important;
+}
+
+#contact-submit,.portfolio-block .caption .search-icon {
+    background: #46cd69 !important;
+}
+
+.form-meghna input:hover, .form-meghna textarea:hover, #contact-submit:hover {
+  border-color: #46cd69 !important;
+}
+
+.price-title h3 {
+  color: #46cd69 !important;
+}
+
+.social-icon ul li:hover a {
+    background-color: #46cd69 !important;
+}
+p>a:hover {
+    color: #46cd69 !important;
+}
+
+.portfolio-filter button {
+  font-size: 12px !important;
+  padding: 10px 20px !important;
+  border-radius: 10px;
+}
+
+.client-meta span {
+  font-size: 14px !important;
+  font-weight: 900;
+  color: #ccc !important;
+}

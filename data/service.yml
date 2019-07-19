@@ -2,13 +2,17 @@ enable: true
 heading: Our
 headingSpan: Services
 serviceItem:
-  - icon: tf-genius
-    title: Products 3D renders/shots.
-    content: We can make your product stand out with product staging. With this extra service, I put your product into a cool surrounding which helps to understand it better and highlights its features.
+  - icon: tf-ion-ios-videocam-outline
+    title: Explainer Videos.
+    content: Animated explainer video needs to elevate your brand, separate you from the competition,and inspire your best prospects to think, feel, and then do something. Expaliner Videos tells your Clients everything about your products and services in a visually engaging way.
 
   - icon: tf-ion-laptop
     title: Products and services digital Advertisement
     content: Digital marketing is the marketing of products or services using digital technologies, mainly on the Internet, but also including mobile phones, display advertising, and any other digital medium.
+
+  - icon: tf-genius
+    title: Products 3D renders/shots.
+    content: We can make your product stand out with product staging. With this extra service, I put your product into a cool surrounding which helps to understand it better and highlights its features.
 
   - icon: tf-dial
     title: Graphic Design
@@ -18,9 +22,6 @@ serviceItem:
     title: Motion Design.
     content: Motion Graphics is animation that uses shapes and text in dynamic ways to help bring stories and concepts to life. While it is ideal for showcasing stats and information, motion graphics is also useful for companies looking to avoid character-led messaging that might not be right for their brand.
 
-  - icon: tf-ion-ios-videocam-outline
-    title: Explainer Videos.
-    content: Animated explainer video needs to elevate your brand, separate you from the competition,and inspire your best prospects to think, feel, and then do something. Expaliner Videos tells your Clients everything about your products and services in a visually engaging way.
 
   - icon: tf-ion-load-a
     title: Infographics.

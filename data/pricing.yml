@@ -5,7 +5,7 @@ pricingTable:
   - title: Basic
     price: N55,000
     btnURL: #
-    btnText: Purchase
+    btnText: Get Qoute
     plan:
       - planDetails: 2 Logo options
       - planDetails: Static Single Page Business site
@@ -16,7 +16,7 @@ pricingTable:
   - title: Professional
     price: N100,000
     btnURL: #
-    btnText: Purchase
+    btnText: Get Qoute
     plan:
       - planDetails: 4 Logo options
       - planDetails: Business site using Hugo
@@ -27,7 +27,7 @@ pricingTable:
   - title: Elite
     price: N250,000
     btnURL: #
-    btnText: Purchase
+    btnText: Get Qoute
     plan:
       - planDetails: 5 Logo options
       - planDetails: Business Card Design

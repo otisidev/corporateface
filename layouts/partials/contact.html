@@ -18,10 +18,15 @@
                 {{ with .Site.Data.contact.content }} <p> {{ . }} </p> {{ end }}
                 <div class="contact-details">
                     {{ range .Site.Data.contact.contactDetails }}
-                    <div class="con-info clearfix">
-                        <i class="{{ .icon }}"></i>
-                        <span>{{ .info }}</span>
-                    </div>
+                      {{if .show }}
+                          <div class="con-info clearfix">
+
+                            <i class="{{ .icon }}"></i>
+
+                            <span>{{ .info }}</span>
+
+                          </div>
+                      {{end}}
                     {{ end }}
                 </div>
             </div>

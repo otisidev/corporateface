@@ -3,18 +3,22 @@ heading: Get In
 headingSpan: Touch
 title: Contact Details
 content: At corporate face, we reconcile company’s objectives with its identity through creation of corporate materials and services that truly represents her clients’ products and services. In Corporate Face, we represent even the least sort-after products/services in the most engaging ways. You can sell anything we represent for you!
-enable_maps: false
+enable_maps: true
 mapLatitude: 51.5223477
 mapLongitude: -0.1622023
 contactDetails:
   - icon: tf-map-pin
     info: "136 Ogui Road, Enugu, Enugu State"
+    show: true
 
   - icon: tf-ion-ios-telephone-outline
     info: "Phone: +234 703 843 3862"
+    show: false
 
   - icon: tf-ion-iphone
     info: "Mobile: +234 901 526 0960"
+    show: false
 
   - icon: tf-ion-ios-email-outline
     info: "Email: corporateface.design@gmail.com"
+    show: true

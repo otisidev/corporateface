@@ -3,21 +3,20 @@ heading: Our
 headingSpan: Works
 filterList:
   - filterType: logo
-    filterTitle: Logo
+    filterTitle: Logos
 
-  - filterType: branding
-    filterTitle: Branding
+  - filterType: video
+    filterTitle: Videos
 
-  - filterType: development
-    filterTitle: Illustration
 
 portfolioItem:
-  - types: branding
+  - types: logo
     image: images/portfolio/portfolio-2.png
     icon: tf-ion-android-search
     URL: #
     title: Gold Fish
     description: Gold fish logo!
+    isVideo: false
 
   - types: logo
     image: images/portfolio/portfolio-3.jpg
@@ -25,6 +24,7 @@ portfolioItem:
     URL: #
     title: Hormony Circle
     description: Hormony Circle logo!
+    isVideo: false
 
   - types: logo
     image: images/portfolio/portfolio-4.jpg
@@ -32,6 +32,7 @@ portfolioItem:
     URL: #
     title: Mommy smart
     description: Mommy smart logo!
+    isVideo: false
 
   - types: logo
     image: images/portfolio/portfolio-5.jpg
@@ -39,6 +40,7 @@ portfolioItem:
     URL: #
     title: Cherry & Irwin
     description: Cherry & Irwin logo!
+    isVideo: false
 
   - types: logo
     image: images/portfolio/portfolio-6.jpg
@@ -46,6 +48,7 @@ portfolioItem:
     URL: #
     title: Cooper
     description: cooper logo law firm!
+    isVideo: false
 
   - types: logo
     image: images/portfolio/portfolio-7.jpg
@@ -53,6 +56,7 @@ portfolioItem:
     URL: #
     title: Cooper
     description: cooper logo law firm!
+    isVideo: false
 
   - types: logo
     image: images/portfolio/portfolio-8.jpg
@@ -60,6 +64,7 @@ portfolioItem:
     URL: #
     title:  DSA
     description: DSA Logo!
+    isVideo: false
 
   - types: logo
     image: images/portfolio/portfolio-9.jpg
@@ -67,6 +72,7 @@ portfolioItem:
     URL: #
     title: oak
     description: Oak logo!
+    isVideo: false
 
   - types: logo
     image: images/portfolio/portfolio-10.png
@@ -74,6 +80,7 @@ portfolioItem:
     URL: #
     title: Street  Smart
     description: Street Smart logo!
+    isVideo: false
 
   - types: logo
     image: images/portfolio/portfolio-11.jpg
@@ -81,6 +88,7 @@ portfolioItem:
     URL: #
     title: Logo
     description: Logo Design!
+    isVideo: false
 
   - types: logo
     image: images/portfolio/portfolio-12.jpg
@@ -88,6 +96,7 @@ portfolioItem:
     URL: #
     title: No deposit logo
     description: no deposite Apartment logo!
+    isVideo: false
 
   - types: logo
     image: images/portfolio/portfolio-13.jpg
@@ -95,6 +104,7 @@ portfolioItem:
     URL: #
     title: Tabernacle
     description: Tabernacle  captial logo!
+    isVideo: false
 
   - types: logo
     image: images/portfolio/portfolio-14.png
@@ -102,3 +112,45 @@ portfolioItem:
     URL: #
     title: e corperative
     description: e corperative logo!
+    isVideo: false
+
+  - types: video
+    image: images/portfolio/15.jpg
+    icon: tf-ion-play
+    URL: https://web.facebook.com/watch/?v=355340705131959
+    title: Bentik Photons Solar systems explainer video
+    isVideo: true
+    description: Tell your story in a creative and dynamic way to capture the interest of the least expected customer.
+
+  - types: video
+    image: images/portfolio/16.jpg
+    icon: tf-ion-play
+    URL: https://www.facebook.com/corporateface.design/videos/628579907621532/
+    title: HealthTip - 01
+    isVideo: true
+    description: How your eardrum is strained when you listen to musics in really loud volume!
+
+  - types: video
+    image: images/portfolio/17.jpg
+    icon: tf-ion-play
+    URL: https://www.facebook.com/watch/?v=1063817413825563
+    title: UgetProperties Free listing Video.
+    isVideo: true
+    description: Always remember. If they keep knocking, they are making ROI on their investment.
+
+
+  - types: video
+    image: images/portfolio/18.jpg
+    icon: tf-ion-play
+    URL: https://web.facebook.com/watch/?v=1129285293921579
+    title: Ugetproperties Explainer video
+    isVideo: true
+    description: Services explainer video for Ugetproperties Real Estate firm. one of the biggest players in the game.
+
+  - types: video
+    image: images/portfolio/19.jpg
+    icon: tf-ion-play
+    isVideo: true
+    URL: https://web.facebook.com/watch/?v=852757428443165
+    title: Services Explainer Video for BentikHomes
+    description: Smater businesses employ colorful videos to tell even a more beautiful story about there organization.
